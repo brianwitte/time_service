@@ -8,7 +8,7 @@ The best time service in Texas!
 4. I would refactor `add_minutes` to be more clear and split up into other functions (see TODOs)
 5. I would possibly change structure of classes
 
-## Good way check out this code
+## Good way to check out this code
 
 Dependencies: 
 ```
